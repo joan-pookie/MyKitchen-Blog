@@ -10,7 +10,9 @@ Joan Rotich
 ---
 
 ## 🚀 Live Site  
-👉 [Visit My Kitchen Shelf](https://joan-pookie.github.io/my-kitchen-shelf/) 
+👉 [Visit My Kitchen Shelf](https://www.youtube.com/watch?v=40dLOIsKqhg
+
+) 
 
 ---
 ## 💡 Features  

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Kitchen Shelf</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <h1>My Kitchen Shelf</h1>
+
+  <form id="itemForm">
+    <input type="text" id="name" placeholder="Item Name" required>
+    <input type="number" id="quantity" placeholder="Quantity" required min="1">
+    <input type="date" id="expiry" required>
+    <input type="text" id="category" placeholder="Category (e.g. Fridge)" required>
+    <button type="submit">Add Item</button>
+  </form>
+
+  <div id="itemsContainer"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
